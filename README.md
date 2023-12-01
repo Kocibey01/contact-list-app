@@ -1,9 +1,9 @@
 # contact-list-app
 
-In the project directory, you can run:
+In the project directory, you can run following codes below:
 
-### `npm install`
-### `npm start`
+1. ### `npm install`
+2. ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -16,4 +16,4 @@ In this project, it is aimed to create a contact list using firebase realtime-da
 Skills/Tools : Firebase realtime-database library, Semantic-ui library and React-toastify library. 
 
 
-![Screen Recording 2023-12-01 at 12 17 04](https://github.com/Kocibey01/contact-list-app/assets/123284065/afda9ef6-e115-4668-96e5-f991b315a04a)
+![Preview](https://github.com/Kocibey01/contact-list-app/assets/123284065/afda9ef6-e115-4668-96e5-f991b315a04a)
